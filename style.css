@@ -1,0 +1,447 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: #354E57;
+    
+}
+body{
+    background-color: #F7F7F7;
+}
+
+
+.header{
+  
+  height: 761px;
+background-image: url(".///images/updated_Header.png");  
+background-repeat: no-repeat;
+background-size: cover;
+}
+.header-page{
+    margin: 25px 0px;
+}
+
+.rate{
+    text-align: center;
+}
+
+.rate h5{
+    background-color: #A67744;
+    padding: 5px 0px;
+}
+
+ul{
+    display: flex;
+list-style: none;
+margin: 21px 0px;
+}
+
+ul li{
+    padding: 0px 22px;
+    color: #354E57;
+}
+
+.first-two h3{
+    text-align: center;
+    color: #293D45;
+}
+.first-one ul{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.first-three ul{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#btn-new{
+  
+background-color:white;
+border: 0px;
+    padding: 3px 28px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.btn-light:hover{
+    background-color: white;
+}
+
+.header-content h1{
+    color: #354E57;
+    font-size: 60px;
+    padding: 12px 0px;
+}
+
+.header-content p{
+    color: #354E57;
+   
+}
+#btn-new{
+        border:2px solid white;
+        background-color: white;
+        color: black;
+        padding: 5px 25px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 0px;
+      }
+.btn-default{
+    border:2px solid black;
+        background-color:#EEF3F4;
+        color: black;
+        padding: 5px 25px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 0px;
+/* }
+/* #img-one{
+    padding: 3px 0px;
+    width: 149%; */
+    max-width: 262%;
+
+}
+
+#images-cont{
+    background-image:
+    url(".//images/ezcema-1@2x.png"),
+   
+     url(".//images/plant.png   "),
+     url(".//images/plant-1.png");
+    
+
+background-repeat:  no-repeat,
+                    no-repeat,
+                    no-repeat;       
+
+
+                    background-position: left 111px top -65px, 
+                    left -65px bottom -27px, 
+                    left 320px top -49px;
+
+
+}
+.solution{
+    border-bottom: 2px solid #547665;
+    border-top: 2px solid #547665;
+    
+    text-align: center;
+    padding: 19px 0px;
+background-color: #EEF3F4;
+
+}
+
+.solution h2{
+    font-weight: 500;
+ font-size: 29px;
+
+}
+.menu{
+    background-color: #EEF3F4;
+}
+.products{
+    background-color: #EEF3F4;
+    padding: 0px 99px;
+
+}
+
+.card{
+    border-style: none;
+    margin: 70px 0px;
+}
+.card-body{
+    background-color: #EEF3F4;
+    padding: 0px 0px;
+}
+.card-img-top{
+    position: relative;
+    top: 55px;
+}
+
+#btn-cream{
+    border: 0px;
+    padding: 4px 18px;
+    font-size: 16px;
+   
+    position: absolute;
+    margin: 17px 13px;
+}
+#cart{
+
+
+    padding: 7px 110px;
+
+}
+
+#second-card{
+    
+    margin: 141px 0px;
+
+}
+#second-card img{
+    padding: 47px 0px;
+}
+#third-card{
+    margin: 141px 0px;   
+}
+
+#third-card img{
+    padding: 47px 0px;   
+}
+
+#four-card{
+    margin: 70px 0px;
+}
+
+#four-card img{
+   
+    padding: 47px 0px;
+    top: 37px;
+
+
+}
+.para h3{
+    margin: 50px 0px;
+    font-size: 17px;   
+}
+
+.clean-products{
+    background-color: #547665;
+    padding: 192px 149px;
+}
+.clean-products p{
+    padding: 9px 0px;
+    color:#EEF2F4;
+}
+
+.clean-products h1{
+    padding: 26px 0px;
+
+}
+
+
+
+.solu-img{
+    background-image: url(.///images/man-in-blue-top-2830332.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 709px;
+}
+#second-one img{
+    padding: 65px 0px;
+
+}
+
+#second-two img{
+    padding: 66px 0px;
+}
+
+#second-two {
+    margin: 141px 0px;
+}
+#second-three{
+    margin: 142px 0px;
+}
+#second-three img{
+    padding: 65px 0px;
+}
+#second-four img {
+    padding: 65px 0px;
+}
+.products-another{
+
+    background-color: #EEF3F4;
+    padding: 0px 99px;
+    margin: -63px 0px;
+
+
+}
+
+#acne-cream img{
+    padding:29px 0px;
+
+}
+.nature{
+    margin: 184px 0px;
+}
+
+.nature-one{
+    background-image: url(".///images/sincerely-media-CjHJbp3zInA-unsplash.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 709px;
+}
+.nature-products{
+    background-color:#C6B9B6;
+    padding: 192px 149px;   
+}
+.nature-products h1{
+    color: white;
+    padding: 20px 0px;
+}
+#cart-one{
+    padding: 7px 32px;
+    background-color: #C6B9B6;
+    border: 2px solid #956A53;
+margin: 10px 0px;
+font-weight: 700;
+}
+#cart-two{
+    background-color: #547665;
+    color: white;
+    border: 2px solid white;
+    margin: 10px 0px;
+    font-weight: 700;
+    padding: 7px 32px;
+
+}
+.products-four{
+ 
+    background-color: #EEF3F4;
+    padding: 0px 99px;
+    margin: -130px 0px;   
+}
+#img-pos{
+    background-image: url(".///images//annie-spratt-hX_hf2lPpUU-unsplash.png");
+}
+
+
+
+#back-card{
+    border-style: none;
+    margin: 58px 0px;
+    background-color:#EEF3F4;
+}
+#back-card{
+    
+    padding: 0px 0px;
+}
+#back-card img-top{
+    position: relative;
+    top: 55px;
+}
+
+#back-card img{
+    padding: 48px 0px;
+}
+#back-card{
+    margin:140px 0px;
+}
+
+#back-card{
+    background-image: url(.//images/annie-spratt-hX_hf2lPpUU-unsplash@2x.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.best{
+text-align: center;
+margin: 218px 0px;
+
+}
+.best h1 {
+    font-size: 36px;
+   
+}
+
+#item-best{
+    background-image: url(".//images/copy.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 664px;
+    margin: 147px 0px;
+}
+.shop-item{
+    margin: 0px 0px;
+    text-align: center;
+    /* font-size: 16px; */
+    background-color: #EEF2F4;
+    padding: 76px 162px;
+
+}
+.sho-item img{
+    width: 30px;
+}
+
+.sho-item h5{
+    padding:13px 0px;
+}
+.sho-item p{
+    text-decoration: underline;
+}
+.hole-join{
+    background-color: white;
+    padding: 37px 99px;
+}
+#basic-addon2{
+
+    background-color: #956A53;
+    color: white;
+}
+.form-control{
+    border: 2px solid #956A53;
+}
+.join h3{
+    font-size: 34px;
+    font-weight: 700;
+    border-right: 1px solid #354E57;
+
+
+}
+.join p{
+   
+    padding: 16px 13px;
+    
+
+}
+.shop ul{
+    display: block;
+}
+.first-foot{
+    padding: 137px 0px;
+    border-bottom: 1px solid#d7cdcd;;
+}
+
+.shop ul li{
+    color: white;
+    
+    font-weight: 200;
+    padding: 5px 21px;
+}
+.shop h3{
+    color: white;
+    font-size: 17px;
+    /* text-align: center; */
+    padding: 0px 22px;
+}
+
+ .footer{
+    background-color: #354E57;
+} 
+
+#shop h2 {
+    color:white;
+}
+
+.foot-end h3{
+    color: white;
+}
+
+
+.foot-end ul li{
+    color: white;
+}
+
+
+.foot-end{
+    margin: 29px 0px;
+
+}
+.foot-last img{
+    padding: 42px 14px;
+}
+
